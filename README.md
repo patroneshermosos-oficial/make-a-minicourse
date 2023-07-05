@@ -10,7 +10,7 @@ Guía detallada para chicas que deseen impartir mini cursos en tecnología en Pa
 
 - [04-recomendaciones.md](./General/04-recomendaciones.md): Recomendaciones para la creación de contenido, la calidad de luz y sonido en los videos
 
-- [04-anexos.md](./General/04-anexos.md): Enlaces útiles y recursos adicionales.
+- [05-anexos.md](./General/05-anexos.md): Enlaces útiles y recursos adicionales.
 
 ## Carpeta "Administrativo"
 - [Carta_DatosImagen.md](./Administrativo/Carta_DatosImagen.md): Formato para informar a las chicas sobre el uso de su imagen y datos personales.
