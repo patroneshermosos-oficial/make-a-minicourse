@@ -2,13 +2,13 @@
 Guía detallada para chicas que deseen impartir mini cursos en tecnología en Patrones Hermosos. Requisitos, recomendaciones y etapas de aplicación
 
 ## Carpeta "general"
-- [01-participa.md](./general/01-participa.md): Información sobre el propósito de Patrones Hermosos y por qué deberías participar.
+- [01-participa.md](./General/01-participa.md): Información sobre el propósito de Patrones Hermosos y por qué deberías participar.
 
-- [02-etapas.md](./general/02-etapas.md): Descripción detallada de las etapas de aplicación para impartir mini cursos.
+- [02-etapas.md](./General/02-etapas.md): Descripción detallada de las etapas de aplicación para impartir mini cursos.
 
-- [03-disclosure.md](./general/03-disclosure.md): Información sobre el uso de la imagen y los datos personales de las chicas en la plataforma.
+- [03-disclosure.md](./General/03-disclosure.md): Información sobre el uso de la imagen y los datos personales de las chicas en la plataforma.
 
-- [04-anexos.md](./general/04-anexos.md): Enlaces útiles y recursos adicionales.
+- [04-anexos.md](./General/04-anexos.md): Enlaces útiles y recursos adicionales.
 
 ## Carpeta "Administrativo"
 - [Carta_DatosImagen.md](./Administrativo/Carta_DatosImagen.md): Formato para informar a las chicas sobre el uso de su imagen y datos personales.
