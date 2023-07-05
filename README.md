@@ -8,6 +8,8 @@ Guía detallada para chicas que deseen impartir mini cursos en tecnología en Pa
 
 - [03-disclosure.md](./General/03-disclosure.md): Información sobre el uso de la imagen y los datos personales de las chicas en la plataforma.
 
+- [04-recomendaciones.md](./General/04-recomendaciones.md): Recomendaciones para la creación de contenido, la calidad de luz y sonido en los videos
+
 - [04-anexos.md](./General/04-anexos.md): Enlaces útiles y recursos adicionales.
 
 ## Carpeta "Administrativo"
