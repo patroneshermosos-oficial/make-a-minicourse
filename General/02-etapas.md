@@ -16,11 +16,17 @@
 
 - Las chicas seleccionadas recibirán orientación y apoyo para preparar el contenido de su mini curso. Se les brindarán las plantillas de Canva y cualquier otra herramienta necesaria. El tiempo requerido para la preparación y grabación dependerá de la complejidad del tema y la disponibilidad de la solicitante.
 
-**Etapa 5: Revisión y retroalimentación (2 semanas)**
+
+**Etapa 5: Pre revisión ( 1 semana )**
+
+- Las chicas que aplican deberán grabar un pequeño video de prueba (demo o capítulo 0, por llamarlo de alguna manera) en donde pueden dar un *overview* de su curso, no deberá de tener una duración de 5 minutos o menos. El equipo de Patrones Hermosos revisará el contenido para dar retroalimentación al respecto y poder continuar con el resto de la grabación.
+
+
+**Etapa 6: Revisión y retroalimentación (2 semanas)**
 
 - Una vez que las chicas hayan completado la grabación de su mini curso, el equipo de Patrones Hermosos revisará el contenido para asegurarse de que cumple con los requisitos establecidos. Se proporcionará retroalimentación constructiva para mejorar la calidad del contenido si es necesario.
 
-**Etapa 6: Publicación y difusión (1 semana)**
+**Etapa 7: Publicación y difusión (1 semana)**
 
 - Después de realizar las revisiones y realizar los ajustes necesarios, el mini curso será publicado en la plataforma de Patrones Hermosos. Se realizará una campaña de difusión para promover el contenido y alcanzar a la comunidad interesada.
 
