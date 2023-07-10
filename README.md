@@ -1,31 +1,35 @@
 # minicourse-for-minicourses
 Guía detallada para chicas que deseen impartir mini cursos en tecnología en Patrones Hermosos. Requisitos, recomendaciones y etapas de aplicación
 
-## Carpeta "general"
-- [01-participa.md](./General/01-participa.md): Información sobre el propósito de Patrones Hermosos y por qué deberías participar.
+# ¡Bienvenida a la Creación de Mini Cursos en Patrones Hermosos!
 
-- [02-etapas.md](./General/02-etapas.md): Descripción detallada de las etapas de aplicación para impartir mini cursos.
+## ¿Qué es Patrones Hermosos?
 
-- [03-disclosure.md](./General/03-disclosure.md): Información sobre el uso de la imagen y los datos personales de las chicas en la plataforma.
+Patrones Hermosos es una iniciativa interdisciplinaria que busca abordar los desafíos sociales y tecnológicos en la educación STEM para las mujeres, especialmente en el campo de la computación en un mundo en constante desarrollo. Nuestro objetivo es promover la participación activa de las mujeres en estas áreas, fomentando el interés, la confianza y el acceso equitativo a oportunidades. A través de diversas actividades y recursos, Patrones Hermosos busca inspirar y apoyar a las chicas interesadas en STEM, proporcionando un espacio donde puedan explorar sus pasiones, desarrollar habilidades relevantes y conectarse con una comunidad de mentes afines. Creemos en la importancia de crear una sociedad más equitativa, donde las mujeres tengan una representación equilibrada y una influencia significativa en el mundo de la tecnología.
 
-- [04-recomendaciones.md](./General/04-recomendaciones.md): Recomendaciones para la creación de contenido, la calidad de luz y sonido en los videos
+## ¿Por qué es importante la creación de mini cursos?
 
-- [05-anexos.md](./General/05-anexos.md): Enlaces útiles y recursos adicionales.
+La creación de mini cursos te permite ser parte del cambio y promover la igualdad de género en la tecnología. Al impartir tus conocimientos, estás contribuyendo a romper barreras y abrir puertas para que más mujeres puedan acceder a oportunidades en las áreas STEM.
 
-## Carpeta "Administrativo"
-- [Carta_DatosImagen.md](./Administrativo/Carta_DatosImagen.md): Formato para informar a las chicas sobre el uso de su imagen y datos personales.
+## Beneficios para ti al crear mini cursos
 
-- [Rubrica_Propuestas.md](./Administrativo/Rubrica_Propuestas.md): Registro y condiciones para aceptar propuestas de cursos.
+Al unirte a la creación de mini cursos en Patrones Hermosos, podrás:
 
-## Carpeta "Produccion"
-### Carpeta "Video_IA"
-- Documentación y programas relacionados con la revisión de la presencia de una imagen humana en los videos.
+- Compartir tu experiencia y pasión por la tecnología de una manera creativa y significativa.
+- Desarrollar habilidades de enseñanza, comunicación y liderazgo.
+- Conectar con otras chicas interesadas en STEM y formar una comunidad de apoyo.
+- Ampliar tu red de contactos en el campo de la tecnología y tener oportunidades de crecimiento personal y profesional.
 
-### Carpeta "Audio_IA"
-- Documentación y programas relacionados con la evaluación de la calidad del audio en los videos.
+## Beneficios para otras chicas al participar en tus mini cursos
 
----
+Tu participación en la creación de mini cursos de Patrones Hermosos tiene un impacto directo en otras chicas. Al impartir tus conocimientos, estarás:
 
-¡Esperamos que encuentres útiles los recursos y documentos proporcionados aquí para fomentar la participación de más chicas en las áreas STEM!
+- Inspirando y motivando a otras chicas a explorar su pasión por la tecnología.
+- Brindando oportunidades de aprendizaje en áreas STEM de una manera accesible y amigable.
+- Construyendo una comunidad de apoyo y empoderamiento para más mujeres en el campo de la tecnología.
+- Contribuyendo a cerrar la brecha de género al aumentar la representación femenina en las STEM.
 
+¡Únete a la creación de mini cursos en Patrones Hermosos y sé parte del cambio en el mundo de la tecnología!
+
+Para obtener más información sobre nuestra iniciativa, puedes visitar [este enlace](https://dreamers.mit.edu/).
 
