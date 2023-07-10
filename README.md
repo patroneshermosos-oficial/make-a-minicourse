@@ -1,7 +1,7 @@
 # minicourse-for-minicourses
 Guía detallada para chicas que deseen impartir mini cursos en tecnología en Patrones Hermosos. Requisitos, recomendaciones y etapas de aplicación
 
-# ¡Bienvenida a la Creación de Mini Cursos en Patrones Hermosos!
+# ¡Bienvenida a la creación de mini cursos en Patrones Hermosos!
 
 ## ¿Qué es Patrones Hermosos?
 
