@@ -31,5 +31,5 @@ Tu participación en la creación de mini cursos de Patrones Hermosos tiene un i
 
 ¡Únete a la creación de mini cursos en Patrones Hermosos y sé parte del cambio en el mundo de la tecnología!
 
-Para obtener más información sobre nuestra iniciativa, puedes visitar [este enlace](https://dreamers.mit.edu/).
+Para obtener más información sobre nuestra iniciativa, crear tu minicurso y navegar en este repositorio, puedes visitar [este enlace](https://github.com/patroneshermosos-oficial/minicourse-for-minicourses/blob/main/guia.md).
 
