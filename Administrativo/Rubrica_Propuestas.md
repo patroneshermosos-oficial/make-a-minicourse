@@ -1,6 +1,6 @@
 A continuación se muestra la rúbrica correspondiente para evaluar la aceptación de una propuesta de mini curso: 
 
-## Rúbrica de Requisitos para Mini Cursos en Patrones Hermosos
+## Rúbrica de requisitos para mini cursos en Patrones Hermosos
 
 ### Contenido (hasta 10 puntos)
 - Claridad y relevancia del contenido presentado. (2 puntos)
