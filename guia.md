@@ -11,17 +11,8 @@ Aprende a navegar en este repositorio:
 
 - [05-anexos.md](./General/05-anexos.md): Enlaces útiles y recursos adicionales.
 
-## Carpeta "Administrativo"
-- [Carta_DatosImagen.md](./Administrativo/Carta_DatosImagen.md): Formato para informar a las chicas sobre el uso de su imagen y datos personales.
-
-- [Rubrica_Propuestas.md](./Administrativo/Rubrica_Propuestas.md): Registro y condiciones para aceptar propuestas de cursos.
-
-## Carpeta "Produccion"
-### Carpeta "Video_IA"
-- Documentación y programas relacionados con la revisión de la presencia de una imagen humana en los videos.
-
-### Carpeta "Audio_IA"
-- Documentación y programas relacionados con la evaluación de la calidad del audio en los videos.
+## Carpeta "Evaluación"
+- [01-Rubrica.md](./Evaluacion/01-Rubrica.md): Formatos bajo los cuales el equipo de Patrones Hermosos acepta y da retroalimentación de un minicurso.
 
 ---
 
