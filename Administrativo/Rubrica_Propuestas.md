@@ -2,6 +2,23 @@ A continuación se muestra la rúbrica correspondiente para evaluar la aceptaci�
 
 ## Rúbrica de requisitos para mini cursos en Patrones Hermosos
 
+A continuación podrás encontrar este enlace que te llevará a una carpeta de google drive, en donde podrás calificar los mini cursos. 
+Las instrucciones son las siguientes: 
+1. Una vez que entres a la carpeta, encontrarás un archivo llamado **Plantilla**, da click derecho y selecciona la opción de "Hacer una copia"
+   <img width="868" alt="image" src="https://github.com/patroneshermosos-oficial/minicourse-for-minicourses/assets/72468795/1626474c-eb1d-49d8-9052-aa7d261f6356">
+2. Se creará un archivo llamado **Copia de Plantilla**, da click derecho y selecciona la opción de "Cambiar nombre" y escribe el nombre del mini - curso que estarás calificando, como puedes ver en el ejemplo
+   <img width="845" alt="image" src="https://github.com/patroneshermosos-oficial/minicourse-for-minicourses/assets/72468795/e72814b3-2796-4a2a-ac63-58ac8906e3da">
+   <img width="867" alt="image" src="https://github.com/patroneshermosos-oficial/minicourse-for-minicourses/assets/72468795/3cb00315-85e3-46fe-8ad7-245798079fba">
+3. Ya puedes ingresar al archivo y comenzar a calificar
+   a. Encontrarás un grupo de celdas en color amarillo para llenar los datos de identificación del curso, es importante que coloques el nombre del curso y de la instructora, antes de empezar a calificar como se muestra en el ejemplo
+  <img width="519" alt="image" src="https://github.com/patroneshermosos-oficial/minicourse-for-minicourses/assets/72468795/14924a9e-c3b2-4231-b6e9-9b13f4a189f0">
+   b. Posteriormente, encontrarás diversas secciones en para seleccionar el puntaje de acuerdo a la descripción del rubro, las valores ya están predeterminados para que los elijas. Llena cada una de las secciones, desde **Contenido** hasta **Evaluación global**. A continuación se muestra un ejemplo:
+   <img width="532" alt="image" src="https://github.com/patroneshermosos-oficial/minicourse-for-minicourses/assets/72468795/d72eca7f-c1bd-4fe4-a99f-30361f51ad73">
+   c. Una vez que termines, podrás darte cuenta de que la puntuación total generada se suma automáticamente
+
+
+
+
 ### Contenido (hasta 10 puntos)
 - Claridad y relevancia del contenido presentado. (2 puntos)
 - Profundidad y nivel de conocimiento transmitido. (2 puntos)
