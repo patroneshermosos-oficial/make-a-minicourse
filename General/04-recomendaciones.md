@@ -9,7 +9,7 @@
 
 Recuerda que la clave está en mantener el enfoque en el tema principal, ofrecer contenido valioso y asegurarte de que los espectadores puedan seguir y comprender el material de manera efectiva en un corto período de tiempo. ¡Buena suerte con tus mini cursos!
 
-### 🤓 Recomendaciones para el video de demo (Etapa 5: Pre revisión)
+### 🤓 Recomendaciones para el video de demo ([Etapa 5: Pre revisión](02-etapas.md))
 
 Para el video de demo o el video 1 del curso, te recomendamos que grabes un resumen o una introducción de lo que se va a ver en el curso completo. Esto puede incluir los siguientes elementos:
 
