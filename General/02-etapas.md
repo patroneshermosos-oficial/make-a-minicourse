@@ -20,7 +20,7 @@
 
 - Deberás grabar un pequeño video de prueba (demo o capítulo 0) donde des una descripción general de tu curso. El equipo de Patrones Hermosos revisará el contenido y te brindará retroalimentación para continuar con el resto de la grabación.
 
-*Puedes encontrar más información de qué incluir en un tu video demo en la sección **Recomendaciones para el video de demo** del archivo de [04-recomendaciones.md](04-recomendaciones.md)
+*Puedes encontrar más información de qué incluir en un tu video demo en la sección **Recomendaciones para el video de demo** del archivo de [04-recomendaciones.md](04-recomendaciones.md)*
 
 **Etapa 6: Revisión y retroalimentación (2 semanas)**
 
