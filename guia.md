@@ -1,7 +1,7 @@
-Aprende a navegar en este repositorio: 
+🧭 **Aprende a navegar en este repositorio:**
 
-## Carpeta "general"
-- [01-participa.md](./General/01-participa.md): Información sobre el propósito de Patrones Hermosos y por qué deberías participar.
+## 📁 Carpeta "general"
+- **👉 [01-participa.md](./General/01-participa.md): Información sobre el propósito de Patrones Hermosos y por qué deberías participar.**
 
 - [02-etapas.md](./General/02-etapas.md): Descripción detallada de las etapas de aplicación para impartir mini cursos.
 
@@ -11,7 +11,7 @@ Aprende a navegar en este repositorio:
 
 - [05-anexos.md](./General/05-anexos.md): Enlaces útiles y recursos adicionales.
 
-## Carpeta "Evaluación"
+## 📁 Carpeta "Evaluación"
 - [01-Rubrica.md](./Evaluacion/01-Rubrica.md): Formatos bajo los cuales el equipo de Patrones Hermosos acepta y da retroalimentación de un minicurso.
 
 ---
