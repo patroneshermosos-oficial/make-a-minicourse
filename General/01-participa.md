@@ -17,7 +17,7 @@ Si eres una chica apasionada por la tecnología o tienes curiosidad por explorar
 
 😀 *Recuerda que estos requisitos tienen como objetivo garantizar la calidad del contenido y promover la diversidad y la inclusión en el campo tecnológico*
 
-**¡Ánimate a participar e inscríbete aquí!:**
+**¡Ánimate a participar e [inscríbete aquí](https://forms.gle/gJjRF6RKaHfBMBS68)!:**
 
 
 
