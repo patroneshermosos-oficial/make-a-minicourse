@@ -16,7 +16,7 @@
 
 - Deberás grabar un pequeño video de prueba (demo o capítulo 0) donde des una descripción general de tu curso. El equipo de Patrones Hermosos revisará el contenido y te brindará retroalimentación para continuar con el resto de la grabación.
   
-*Puedes encontrar más información de qué incluir en un tu video en el archivo de [anexo01-como-grabar-un-demo](https://github.com/patroneshermosos-oficial/make-a-minicourse/blob/main/General/anexo01-como-grabar-un-demo.md)*
+*Puedes encontrar más información de qué incluir en un tu video demo en el archivo de [anexo01-como-grabar-un-demo](https://github.com/patroneshermosos-oficial/make-a-minicourse/blob/main/General/anexo01-como-grabar-un-demo.md)*
 
 **Etapa 5️⃣: Preparación y grabación (máximo de 30 días)**
 
