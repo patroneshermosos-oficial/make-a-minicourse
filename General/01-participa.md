@@ -9,8 +9,9 @@ Si eres una chica apasionada por la tecnología o tienes curiosidad por explorar
 ## ✅ Requisitos para participar:
 
 1. Ser mujer: Los mini cursos están diseñados para fomentar la participación y el empoderamiento de las chicas en el campo de la tecnología y las áreas STEM. Por lo tanto, los mini cursos están abiertos exclusivamente a mujeres.
-2. Conocimiento del tema: Se requiere que las participantes tengan conocimientos sólidos en el tema que deseen enseñar. Esto puede ser respaldado por un diploma, certificado, carta de recomendación u otra evidencia que demuestre su competencia en el área.
-3. Temas relacionados con tecnología: Los mini cursos deben estar centrados en temas relacionados con la tecnología o que sean relevantes para el campo de la tecnología. Esto puede incluir áreas como programación, diseño de interfaces, inteligencia artificial, blockchain, ciberseguridad, análisis de datos, modelado en 3D, circuitos digitales, logística entre otros. También se aceptan temas como el design thinking que pueden ayudar a las personas involucradas en tecnología.
+2. Tener 18+ años
+3. Conocimiento del tema: Se requiere que las participantes tengan conocimientos sólidos en el tema que deseen enseñar. Esto puede ser respaldado por un diploma, certificado, carta de recomendación u otra evidencia que demuestre su competencia en el área.
+4. Temas relacionados con tecnología: Los mini cursos deben estar centrados en temas relacionados con la tecnología o que sean relevantes para el campo de la tecnología. Esto puede incluir áreas como programación, diseño de interfaces, inteligencia artificial, blockchain, ciberseguridad, análisis de datos, modelado en 3D, circuitos digitales, logística entre otros. También se aceptan temas como el design thinking que pueden ayudar a las personas involucradas en tecnología.
 
 📹 **Importante:** Además de los requisitos anteriores, es importante destacar que se valorará la calidad de producción de los videos de los mini cursos. Para asegurar una buena experiencia de aprendizaje, se espera que las participantes tengan una cámara encendida durante la grabación de los videos, de modo que se pueda ver su imagen. Asimismo, se debe asegurar que el audio y la iluminación sean de buena calidad para facilitar la comprensión y la visualización del contenido.
 
