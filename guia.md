@@ -18,4 +18,5 @@
 
 ¡Esperamos que encuentres útiles los recursos y documentos proporcionados aquí para fomentar la participación de más chicas en las áreas STEM!
 
-
+## 📁 Carpeta "Tutorial"
+Aquí podrás encontrar explicaciones mediante videos de cómo navegar en el repositorio, cómo seguir el proceso de creación de mini-cursos y sus distintas etapas. Es una buena alternativa si te sientes perdida con tanta información y no sabes por donde empezar
