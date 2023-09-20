@@ -10,7 +10,7 @@
 
 **Etapa 3️⃣: Aprobación y selección (1 semana)**
 
-- Una vez evaluadas todas las propuestas, seleccionaremos aquellas que cumplan con los requisitos y estén alineadas con nuestros objetivos. Si tu propuesta es aprobada, nos pondremos en contacto contigo con los requisitos y recomendaciones para grabar tu mini-curso.
+- Una vez evaluadas todas las propuestas, seleccionaremos aquellas que cumplan con los requisitos y estén alineadas con nuestros objetivos. Si tu propuesta es aprobada, nos pondremos en contacto contigo vía el correo electrónico que nos proporcionaste con los requisitos y recomendaciones para grabar tu mini-curso.
 
 **Etapa 4️⃣: Envío y revisión de un demo (1 semana)**
 
