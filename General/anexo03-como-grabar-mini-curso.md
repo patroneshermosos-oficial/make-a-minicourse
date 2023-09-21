@@ -20,6 +20,8 @@ La creación de videos de alta calidad es fundamental para ofrecer un mini-curso
    - **Duración:** Mantén tus videos concisos, con una duración máxima de 5 minutos cada uno. 
    - **Claridad:** Habla claramente y a un ritmo adecuado para que los espectadores puedan seguir fácilmente.
 
+‼️ ***Importante: te pedimos que respetes el formato de la primer diapositiva de la presentación en donde pones: el nombre de tu mini-curso, tu nombre y una fotografía tuya***
+
 ## 4️⃣. Grabación:
    - **Encuadre:** Asegúrate de que la cámara esté nivelada y enfocada en ti.
    - **Audio:** Utiliza un micrófono externo para asegurarte de que tu voz se escuche claramente.
