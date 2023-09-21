@@ -32,4 +32,4 @@ Cuando recibiste el correo de aceptación de tu propuesta, te enviamos el link a
 Para más información de cómo está organizada esta carpeta, te sugiero que visites [esta página](https://github.com/patroneshermosos-oficial/make-a-minicourse/blob/main/General/anexo02-como-usar-mi-carpeta-google-drive.md).
 
 
-*Este video te podrá servir como introducción al curso una vez que lo termines para atraer a la audiencia, no lo olvides*
+***Este video te podrá servir como introducción al curso una vez que lo termines para atraer a la audiencia, no lo olvides***
