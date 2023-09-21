@@ -21,6 +21,9 @@ Recuerda que la clave está en mantener el enfoque en el tema principal, ofrecer
 
  **🛒 Aquí te dejamos algunas opciones de productos que podrían funcionarte:**
 
+- [Aro de luz](https://a.co/d/4UFkFGH)
+- [Barra de luz](https://a.co/d/6FEvlTr )
+- [Tripie](https://a.co/d/8UnOKHr)
 
 ### Audio:
 
@@ -31,7 +34,9 @@ Recuerda que la clave está en mantener el enfoque en el tema principal, ofrecer
 
 **🛒 Aquí te dejamos algunas opciones de productos que podrían funcionarte:**
 
-***Recuerda que la calidad del audio y la luz son aspectos importantes para garantizar una experiencia de visualización agradable y profesional. Experimenta con diferentes configuraciones y equipos para encontrar la combinación que funcione mejor para ti y asegúrate de realizar pruebas previas antes de grabar tus mini cursos. ¡Espero que estas recomendaciones te sean útiles!***
+- [Micrófono inalámbrico](https://a.co/d/7MJciFH )
+
+***📝 Nota: no es necesario que compres los productos recomendados para tener una buena calidad de audio y video, puedes usar luz natural y el micrófono de los audífonos que tengas en casa, solo asegurate que se escuchen fuerte y claro***
 
 ## 👀 Recomendaciones de material visual:
 
@@ -62,3 +67,4 @@ Recuerda que las plantillas de Canva son una excelente base, pero puedes persona
 
 1. **OBS Studio:** Esta herramienta también está disponible para Linux y es una opción muy popular y versátil. Te permitirá grabar la pantalla, mostrar la cámara y capturar el audio sin problemas.
 2. **SimpleScreenRecorder:** Es una herramienta de grabación de pantalla simple pero efectiva en Linux. Te permite grabar la pantalla y capturar el audio, y es fácil de configurar y utilizar.
+   
