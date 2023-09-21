@@ -10,7 +10,7 @@
 Recuerda que la clave está en mantener el enfoque en el tema principal, ofrecer contenido valioso y asegurarte de que los espectadores puedan seguir y comprender el material de manera efectiva en un corto período de tiempo. ¡Buena suerte con tus mini cursos!
 
 
-### 💡Recomendaciones de luz y sonido:
+## 💡Recomendaciones de luz y sonido:
 
 **Luz:**
 
@@ -28,7 +28,7 @@ Recuerda que la clave está en mantener el enfoque en el tema principal, ofrecer
 
 Recuerda que la calidad del audio y la luz son aspectos importantes para garantizar una experiencia de visualización agradable y profesional. Experimenta con diferentes configuraciones y equipos para encontrar la combinación que funcione mejor para ti y asegúrate de realizar pruebas previas antes de grabar tus mini cursos. ¡Espero que estas recomendaciones te sean útiles!
 
-### 👀 Recomendaciones de material visual:
+## 👀 Recomendaciones de material visual:
 
 Para ayudarte a crear presentaciones visuales atractivas, te proporcionaremos tres plantillas de Canva especialmente diseñadas para nuestros mini cursos. Estas plantillas te servirán como punto de partida, brindándote un diseño profesional y una estructura visualmente agradable. Aunque utilizaremos estas plantillas como base, te recomendamos personalizarlas y adaptarlas a tu contenido específico. A continuación, algunas recomendaciones adicionales para mejorar tus presentaciones:
 
@@ -40,7 +40,7 @@ Para ayudarte a crear presentaciones visuales atractivas, te proporcionaremos tr
 
 Recuerda que las plantillas de Canva son una excelente base, pero puedes personalizarlas y agregar tu toque personal. Experimenta con diferentes diseños y elementos visuales para lograr presentaciones impactantes y coherentes con tu estilo. ¡Disfruta del proceso de creación y permite que tus presentaciones destaquen en los mini cursos!
 
-### 📹 Recomendaciones de software para grabación segmentado por Sistema operativo:
+## 📹 Recomendaciones de software para grabación segmentado por Sistema operativo:
 
 **Para Windows:**
 
