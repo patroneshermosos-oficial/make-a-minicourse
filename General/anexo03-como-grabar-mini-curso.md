@@ -15,7 +15,7 @@ La creación de videos de alta calidad es fundamental para ofrecer un mini-curso
 
 ## 3️⃣. Contenido del video:
    - **Presentación visual:** Utiliza plantillas de Canva o Google Slides para crear presentaciones visuales atractivas. Aquí tienes los enlaces a las plantillas:
-     - [Plantilla de Canva](enlace_a_tu_plantilla_de_Canva)
+     - [Plantilla de Canva](https://www.canva.com/design/DAFvGehR-MM/CxW0-kVtplfnkpAf6crBEw/edit?utm_content=DAFvGehR-MM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
      - [Plantilla de Google Slides](enlace_a_tu_plantilla_de_Google_Slides)
    - **Duración:** Mantén tus videos concisos, con una duración máxima de 5 minutos cada uno. 
    - **Claridad:** Habla claramente y a un ritmo adecuado para que los espectadores puedan seguir fácilmente.
