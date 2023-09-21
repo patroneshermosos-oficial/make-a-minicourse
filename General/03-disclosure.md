@@ -18,5 +18,5 @@ Si tienes alguna preocupación o pregunta acerca de la publicación de tus mini 
 
 ---
 
-¡Gracias por ser parte de esta increíble iniciativa y por compartir tu conocimiento con nuestra comunidad! Juntas están rompiendo barreras y construyendo un futuro más inclusivo en las STEM.
+***¡Gracias por ser parte de esta increíble iniciativa y por compartir tu conocimiento con nuestra comunidad! Juntas están rompiendo barreras y construyendo un futuro más inclusivo en las STEM.***
 
