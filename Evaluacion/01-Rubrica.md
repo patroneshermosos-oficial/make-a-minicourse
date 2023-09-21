@@ -48,4 +48,6 @@ A continuación se muestra la rúbrica correspondiente para evaluar la aceptaci�
 - Puntuación total de 25 a 29 puntos: Evaluar el mini curso con mayor detenimiento y solicitar modificaciones significativas antes de tomar una decisión final.
 - Puntuación total de menos de 25 puntos: Rechazar el mini curso y proporcionar comentarios constructivos para futuras mejoras.
 
-Recuerda que estos umbrales son solo una sugerencia inicial y puedes ajustarlos según las necesidades y estándares específicos de Patrones Hermosos. Es importante tener en cuenta que la calidad del contenido y la presentación son aspectos clave a considerar al tomar la decisión de aceptar o rechazar un mini curso. Además, se puede establecer un proceso de retroalimentación y revisión conjunta con las instructoras para mejorar y afinar los cursos propuestos.
+---
+
+***Recuerda que estos umbrales son solo una sugerencia inicial y puedes ajustarlos según las necesidades y estándares específicos de Patrones Hermosos. Es importante tener en cuenta que la calidad del contenido y la presentación son aspectos clave a considerar al tomar la decisión de aceptar o rechazar un mini curso. Además, se puede establecer un proceso de retroalimentación y revisión conjunta con las instructoras para mejorar y afinar los cursos propuestos.***
