@@ -1,33 +1,13 @@
-## Recomendaciones generales:
+## 😉 Recomendaciones generales:
 
-1. Estructura clara y concisa: Es importante organizar el contenido de manera lógica y presentarlo de forma clara y concisa. Divide el tema en secciones o pasos y asegúrate de explicar cada uno de ellos de manera coherente. Utiliza ejemplos prácticos y ejercicios para reforzar el aprendizaje.
-2. Duración adecuada: Para captar la atención de los espectadores y mantenerlos comprometidos, es recomendable que cada video tenga una duración máxima de 5 minutos y que no se incluyan menos de 5 ni más de 20 videos por mini-curso. Si el tema requiere más tiempo, considera dividirlo en varios videos cortos y numerarlos para que los espectadores puedan seguir el orden.
-3. Producción de calidad: Asegúrate de tener una buena iluminación y un sonido claro en tus videos. Utiliza un fondo limpio y ordenado para evitar distracciones. Si es posible, utiliza un micrófono externo para mejorar la calidad del audio. Puedes editar los videos para eliminar errores o momentos de silencio prolongados.
-4. Contenido práctico y ejemplos: Los mini cursos deben ser prácticos y ofrecer ejemplos concretos que ilustren los conceptos y técnicas que estás enseñando. Proporciona ejercicios o desafíos para que los espectadores puedan aplicar lo aprendido y practicar por sí mismos.
-5. Interacción con los espectadores: Anima a los espectadores a participar activamente en los comentarios o en un grupo de discusión relacionado con el mini curso. Puedes responder preguntas, brindar retroalimentación adicional o proporcionar recursos adicionales para aquellos que deseen profundizar en el tema.
-6. Actualización y mejora continua: A medida que obtengas retroalimentación de los espectadores y adquieras más experiencia como instructora, considera actualizar y mejorar tus mini cursos. Agrega nueva información, responde a las preguntas frecuentes y mantén el contenido actualizado.
+1. **Estructura clara y concisa de tu material:** Es importante organizar el contenido de manera lógica y presentarlo de forma clara y concisa. Divide el tema en secciones o pasos y asegúrate de explicar cada uno de ellos de manera coherente. Utiliza ejemplos prácticos y ejercicios para reforzar el aprendizaje.
+2. **Duración adecuada:** Para captar la atención de los espectadores y mantenerlos comprometidos, es recomendable que cada video tenga una duración máxima de 5 minutos y que no se incluyan menos de 5 ni más de 20 videos por mini-curso. Si el tema requiere más tiempo, considera dividirlo en varios videos cortos y numerarlos para que los espectadores puedan seguir el orden.
+3. **Producción de calidad:** Asegúrate de tener una buena iluminación y un sonido claro en tus videos. Utiliza un fondo limpio y ordenado para evitar distracciones. Si es posible, utiliza un micrófono externo para mejorar la calidad del audio. Puedes editar los videos para eliminar errores o momentos de silencio prolongados.
+4. **Contenido práctico y ejemplos:** Los mini cursos deben ser prácticos y ofrecer ejemplos concretos que ilustren los conceptos y técnicas que estás enseñando. Proporciona ejercicios o desafíos para que los espectadores puedan aplicar lo aprendido y practicar por sí mismos.
+5. **Interacción con los espectadores:** Anima a los espectadores a participar activamente en los comentarios o en un grupo de discusión relacionado con el mini curso. Puedes responder preguntas, brindar retroalimentación adicional o proporcionar recursos adicionales para aquellos que deseen profundizar en el tema.
+6. **Actualización y mejora continua:** A medida que obtengas retroalimentación de los espectadores y adquieras más experiencia como instructora, considera actualizar y mejorar tus mini cursos. Agrega nueva información, responde a las preguntas frecuentes y mantén el contenido actualizado.
 
 Recuerda que la clave está en mantener el enfoque en el tema principal, ofrecer contenido valioso y asegurarte de que los espectadores puedan seguir y comprender el material de manera efectiva en un corto período de tiempo. ¡Buena suerte con tus mini cursos!
-
-### 🤓 Recomendaciones para el video de demo ([Etapa 5: Pre revisión](02-etapas.md))
-
-Para el video de demo o el video 1 del curso, te recomendamos que grabes un resumen o una introducción de lo que se va a ver en el curso completo. Esto puede incluir los siguientes elementos:
-
-1. Presentación personal: Comienza presentándote brevemente, indicando tu nombre y tu experiencia en el tema del curso. Esto ayudará a establecer tu credibilidad y conexión con los espectadores.
-
-2. Objetivos del curso: Explica cuáles son los objetivos principales del curso y qué aprenderán los estudiantes al completarlo. Describe brevemente los temas principales que se abordarán.
-
-3. Contenido del curso: Resume los temas o módulos que se cubrirán en el curso. Puedes mencionar los conceptos clave que se explorarán y destacar los puntos más interesantes o útiles que los estudiantes pueden esperar.
-
-4. Metodología de enseñanza: Comenta sobre la metodología que utilizarás para enseñar el curso. Puedes mencionar si habrá ejercicios prácticos, ejemplos interactivos o alguna otra forma de participación activa de los estudiantes.
-
-5. Beneficios del curso: Destaca los beneficios específicos que los estudiantes obtendrán al completar el curso. Puedes mencionar habilidades prácticas, conocimientos relevantes para su carrera o cualquier otro beneficio que sea relevante para el tema del curso.
-
-Recuerda que el objetivo de este video de demo es captar la atención e interés de los estudiantes potenciales. Por lo tanto, es importante que transmitas entusiasmo y demuestres tu pasión por el tema. También es recomendable utilizar un lenguaje claro y accesible, evitando jergas técnicas en exceso.
-
-En resumen, el video de demo debe ofrecer una visión general del curso y motivar a los estudiantes a querer aprender más.
-
-¡Demuestra tu talento y comparte tu conocimiento con el mundo!
 
 
 ### 💡Recomendaciones de luz y sonido:
