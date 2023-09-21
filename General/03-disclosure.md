@@ -16,5 +16,7 @@ Para garantizar la integridad de nuestra comunidad y asegurarnos de que nuestros
 
 Si tienes alguna preocupación o pregunta acerca de la publicación de tus mini cursos o el uso de herramientas de Inteligencia Artificial, no dudes en comunicarte con nosotros. Estamos aquí para apoyarte en cada paso del camino.
 
+---
+
 ¡Gracias por ser parte de esta increíble iniciativa y por compartir tu conocimiento con nuestra comunidad! Juntas están rompiendo barreras y construyendo un futuro más inclusivo en las STEM.
 
