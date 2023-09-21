@@ -20,7 +20,7 @@
 
 ## Etapa 5️⃣: Preparación y grabación (máximo de 30 días)
 
-- Una vez aceptado tu demo, te brindaremos orientación y apoyo para preparar el contenido de tu mini curso. Te proporcionaremos plantillas de Canva y otras herramientas necesarias **a través de una carpeta de Googlr Drive y este mismo repositorio**. El tiempo requerido para la preparación y grabación dependerá de la complejidad del tema y tu disponibilidad, sin embargo te pedimos un máximo de 30 días para aplazar el menor tiempo posible el lanzamiento de tu material.
+- Una vez aceptado tu demo, te brindamos orientación y apoyo para preparar el contenido de tu mini curso ([click aquí](https://github.com/patroneshermosos-oficial/make-a-minicourse/blob/main/General/anexo03-como-grabar-mini-curso.md#-gu%C3%ADa-para-grabar-videos-para-tu-mini-curso)). Te proporcionaremos plantillas de Canva y otras herramientas necesarias **a través de una carpeta de Google Drive y [este mismo repositorio](https://github.com/patroneshermosos-oficial/make-a-minicourse/blob/main/General/anexo03-como-grabar-mini-curso.md#3%EF%B8%8F%E2%83%A3-contenido-del-video)**. El tiempo requerido para la preparación y grabación dependerá de la complejidad del tema y tu disponibilidad, sin embargo te pedimos un máximo de 30 días para aplazar el menor tiempo posible el lanzamiento de tu material.
 
 ## Etapa 6️⃣: Revisión y retroalimentación (2 semanas)
 
