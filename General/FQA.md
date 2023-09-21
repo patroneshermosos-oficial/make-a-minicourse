@@ -36,4 +36,6 @@ Si tienes una idea para un mini-curso pero no estás segura de cómo desarrollar
 
 Sí, puedes incluir ejercicios prácticos en tus mini-cursos como una opción para los espectadores interesados en participar activamente. Sin embargo, ten en cuenta que estos ejercicios no se revisarán, ya que los mini-cursos están diseñados principalmente para el aprendizaje autónomo.
 
+---
+
 ***Si tienes alguna pregunta adicional, no dudes en contactarnos. ¡Gracias por ser parte de nuestra iniciativa y por compartir tu conocimiento con nuestra comunidad!***
