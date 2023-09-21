@@ -34,4 +34,6 @@ Si quieres saber bajo que rubros Patrones Hermosos revisa y retroalimenta tu con
 
 En cuanto a los tiempos de respuesta aproximados, haremos todo lo posible para responder a tus solicitudes y consultas en un plazo de 1-2 semanas. Sin embargo, ten en cuenta que este plazo puede variar según nuestra carga de trabajo y la cantidad de propuestas recibidas en ese momento. Agradecemos tu paciencia mientras revisamos y evaluamos todas las propuestas de manera cuidadosa y exhaustiva.
 
+---
+
 *Recuerda que estos tiempos son aproximados y podrían estar sujetos a cambios dependiendo de las circunstancias. Nos esforzaremos por brindarte una experiencia fluida y eficiente en todas las etapas del proceso de aplicación y publicación de los mini cursos.*
