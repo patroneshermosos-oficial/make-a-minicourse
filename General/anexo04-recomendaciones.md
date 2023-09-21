@@ -12,6 +12,10 @@ Recuerda que la clave está en mantener el enfoque en el tema principal, ofrecer
 
 ## 💡Recomendaciones de luz y sonido:
 
+### Material que puede ayudarte: 
+- [Video: ¿Cómo iluminar tus videos para principantes?](https://www.youtube.com/watch?v=J44FQ-ZtkSg)
+- [Video: Tips para grabar con tu celular](https://www.youtube.com/watch?v=_rl_4yKtg_I)
+
 ### Luz:
 
 - Utiliza luz natural siempre que sea posible: La luz natural proporciona una iluminación suave y equilibrada. Considera grabar cerca de una ventana durante el día para aprovechar la luz natural.
