@@ -26,6 +26,8 @@
 
 - Una vez que hayas completado la grabación de tu mini curso, nuestro equipo lo revisará para asegurarse de que cumpla con nuestros requisitos. Te proporcionaremos retroalimentación constructiva para mejorar la calidad del contenido si es necesario, la cual **podrás encontrar en la misma carpeta de Google Drive, de igual manera recibirás un correo electrónico** avisándote que la retroalimentación está lista.
 
+Si quieres saber bajo que rubros Patrones Hermosos revisa y retroalimenta tu contenido te recomiendo que cheques [ésta página](https://github.com/patroneshermosos-oficial/make-a-minicourse/blob/main/Evaluacion/01-Rubrica.md)
+
 ## Etapa 7️⃣: Publicación y difusión (1 semana)
 
 - Después de realizar las revisiones y realizar los ajustes necesarios, tu mini curso será publicado **en la plataforma de Patrones Hermosos**. Realizaremos una campaña de difusión para promover tu contenido y llegar a nuestra comunidad interesada.
