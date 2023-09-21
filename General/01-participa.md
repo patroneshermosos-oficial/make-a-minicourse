@@ -15,6 +15,8 @@ Si eres una chica apasionada por la tecnología o tienes curiosidad por explorar
 
 📹 **Importante:** Además de los requisitos anteriores, es importante destacar que se valorará la calidad de producción de los videos de los mini cursos. Para asegurar una buena experiencia de aprendizaje, se espera que las participantes tengan una cámara encendida durante la grabación de los videos, de modo que se pueda ver su imagen. Asimismo, se debe asegurar que el audio y la iluminación sean de buena calidad para facilitar la comprensión y la visualización del contenido.
 
+---
+
 😀 *Recuerda que estos requisitos tienen como objetivo garantizar la calidad del contenido y promover la diversidad y la inclusión en el campo tecnológico*
 
 **¡Ánimate a participar e [inscríbete aquí](https://forms.gle/gJjRF6RKaHfBMBS68)!:**
