@@ -27,7 +27,7 @@ En resumen, el video de demo debe ofrecer una visión general del curso y motiva
 - El contenido del video debe de estar relacionado con tu mini-curso y contigo
 
 ## ⬆️🎥 ¿Cómo y dónde debo de subir mi video? 
-Cuando recibiste el correo de aceptación de tu propuesta, te enviamos el link a una carpeta de Google Drive en donde estarás subiendo todo el contenido de tu mini-curso (para más información de cómo está organizada esta carpeta, te sugiero que visites [esta página]()).
-En ella, se incluye una carpeta llamada *demo* ahí te pedimos que subas tu video en el formato que mejor te funcione. 
+Cuando recibiste el correo de aceptación de tu propuesta, te enviamos el link a una carpeta de Google Drive en donde estarás subiendo todo el contenido de tu mini-curso (para más información de cómo está organizada esta carpeta, te sugiero que visites [esta página](https://github.com/patroneshermosos-oficial/make-a-minicourse/blob/main/General/anexo02-como-usar-mi-carpeta-google-drive.md) para entender mejor como funciona).
+En esta carpeta de Google Drive, se incluye una carpeta llamada *demo* ahí te pedimos que subas tu video en el formato que mejor te funcione. 
 
 *Este video te podrá servir como introducción al curso una vez que lo termines para atraer a la audiencia, no lo olvides*
